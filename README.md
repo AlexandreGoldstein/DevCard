@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://www.reddit.com/r/MadeMeSmile/comments/xixmm7/boy_sees_a_firefighter_for_the_first_time/?utm_source=share&utm_medium=web2x&context=3
+<a href="https://app.daily.dev/Haohmaru"><img src="https://api.daily.dev/devcards/c79030e580f74ab2be22dc6b8e758145.png?r=e7t" width="400" alt="Alexandre G's Dev Card"/></a>
